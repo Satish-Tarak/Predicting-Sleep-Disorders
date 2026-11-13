@@ -6,10 +6,14 @@
 An end-to-end machine learning classification project to predict
 sleep disorder categories: None, Insomnia, and Sleep Apnea.
 
-## Project Links
 
-- [Kaggle Notebook](https://www.kaggle.com/code/season87/predicting-sleep-disorders)
-- [GitHub Repository](https://github.com/Satish-Tarak/Predicting-Sleep-Disorders)
+## 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| Kaggle Notebook | [View Notebook](https://www.kaggle.com/code/season87/predicting-sleep-disorders) |
+| Dataset (CSV) | [View Dataset Input](https://www.kaggle.com/code/season87/predicting-sleep-disorders/input?select=Sleep_health_and_lifestyle_dataset.csv) |
+| GitHub Repository | [View Repository](https://github.com/Satish-Tarak/Predicting-Sleep-Disorders) |
 
 # Predicting Sleep Disorders Using Machine Learning
 
