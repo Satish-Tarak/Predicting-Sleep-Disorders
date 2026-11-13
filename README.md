@@ -1,3 +1,16 @@
+
+![Predicting Sleep Disorders](sleep_disorders_github_banner.png)
+
+# Predicting Sleep Disorders Using Machine Learning
+
+An end-to-end machine learning classification project to predict
+sleep disorder categories: None, Insomnia, and Sleep Apnea.
+
+## Project Links
+
+- [Kaggle Notebook](https://www.kaggle.com/code/season87/predicting-sleep-disorders)
+- [GitHub Repository](https://github.com/Satish-Tarak/Predicting-Sleep-Disorders)
+
 # Predicting Sleep Disorders Using Machine Learning
 
 An end-to-end Machine Learning classification project that analyzes demographic, lifestyle, sleep, and cardiovascular indicators to predict sleep disorder categories.
